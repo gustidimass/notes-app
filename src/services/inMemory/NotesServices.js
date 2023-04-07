@@ -1,5 +1,4 @@
 const { nanoid } = require("nanoid");
-const { deleteNoteByIdHandler } = require("../../handler");
 
 class NotesServices {
     constructor() {
